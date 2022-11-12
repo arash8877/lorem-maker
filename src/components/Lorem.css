@@ -1,6 +1,8 @@
 .container{
     background-color: antiquewhite;
+    border-radius: 5px;
     margin-top: 50px;
+    width: 500px;
 }
 h4{
     text-align: center;
@@ -27,5 +29,6 @@ button{
     cursor: pointer;
 }
 p{
-    padding: 0 30px;
+    padding: 10px 30px;
+    text-align: justify;
 }
